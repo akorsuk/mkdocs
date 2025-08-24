@@ -1,9 +1,9 @@
-site_name: My Info
+site_name: Alexander Korsuk's site
 site_url: https://akorsuk/github.io/mkdocs/
 theme:
   name: material
 site_author: Alexander Korsuk
-copyright: Copyright © 20xx Alexander Korsuk
+copyright: Copyright © 2025 Alexander Korsuk
 markdown_extensions:
   - admonition
   - pymdownx.details

@@ -1,4 +1,4 @@
-# Welcome!
+# Info
 
 
 
@@ -14,9 +14,21 @@
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # homepage
-        info.md  # infopage
         resume.md  # resume
         ...       # Other markdown pages, images and other files.
+
+
+- List 1
+- List 2
+
+
+!!! note
+
+    Test note.
+
+
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 

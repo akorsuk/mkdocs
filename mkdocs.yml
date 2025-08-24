@@ -1,0 +1,10 @@
+site_name: My Info
+site_url: https://akorsuk/github.io/mkdocs/
+theme:
+  name: material
+site_author: Alexander Korsuk
+copyright: Copyright © 20xx Alexander Korsuk
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
